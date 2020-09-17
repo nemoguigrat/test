@@ -6,7 +6,7 @@ namespace test
     {
         public static void Main(string[] args)
         {    
-            Console.WriteLine("Дима чмо пожизненно");
+            Console.WriteLine("Дима почини кровать");
         }
     }
 }
